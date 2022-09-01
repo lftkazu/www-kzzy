@@ -1,2 +1,2 @@
 # www-kzzy
-Leaning google analytics
+Studying google analytics
